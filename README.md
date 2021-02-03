@@ -1,5 +1,7 @@
 # Operation Code Transition Assistance Program
 
+![Operation Code Logo](https://operation-code-assets.s3.us-east-2.amazonaws.com/branding/logos/large-blue-logo.png)
+
 ## Purpose of Project
 The purpose of the Operation Code Transition Assistance Program (OCTAP) is to provide guidance for active duty and/or veterans who wish to transition into the tech industry. OCTAP will leverage its extensive network, as well as external resources, to create a structured self-paced curriculum that members can take to supplement their career transition. Training tracks will be created for members to prepare them to enter four main fields in the tech industry: 
 - Full Stack Development
@@ -14,7 +16,7 @@ The success of OCTAP will be measured by how many members are able to find meani
 
 ## High Level Project Description
 Creating a structured self-paced curriculum requires OCTAP to utilize already available resources and not "reinvent the wheel". The key word is "structured", and the value of OCTAP is providing "what" to study and "when" to study said subject, alongside guidance from experienced members. Curriculums will be based on training track member chooses and material will be accessed through Github repositories. The following will be a sample training track for Full Stack Development:
-- **Full Stack Development 000 (Introduction) (GitHub Repository):**
+- **Full Stack Development 000 (Introduction):**
   - This section will cover what exactly "Full Stack Development" is, and the broad overview of the field as well as requirements
   - Goal of this section is to provide enough context about the industry and make sure the member knows exactly what they are signing up for
   - Additional subjects found in this repo will be:
@@ -23,7 +25,7 @@ Creating a structured self-paced curriculum requires OCTAP to utilize already av
     - Types of industries a web developer can work in 
     - Salaries, lifestyle, career progression, etc. 
 
-- **Full Stack Development 100 (Fundamentals) (Github Repository):**
+- **Full Stack Development 100 (Fundamentals):**
   - This section will cover the fundamental skills required to be a web developer and introduce the member to tutorials that cover the basics (HTML, CSS, JavaScript). Section will be heavy on the front-end of web development.
   - Tutorials that slowly build the skills of the member will be listed: 
     - https://www.freecodecamp.org/
