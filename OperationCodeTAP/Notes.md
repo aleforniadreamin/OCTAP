@@ -65,13 +65,3 @@ A program to assist military members transitioning out the military into the tec
   - Local businesses
 
 
-## UpVet OC Resource Bank 
-- Create a resource for benefits like the resources API where members can easily add to the repo
-- Make it super easy to add for strangers to add vet resources
-- Like UpVet? 
-  - Points system for each reference added you get points and it shows your score
-  - Members can have a running score and it will encourage them to contribute more
-  - Have notifications on the home page that shows what resources are no longer used:
-    - February 2, 2021: Vet Tec has currently run out of funds for this year, visit "http://www.google.com" to find out more
-    - February 5, 2021: Vet School has been removed from the database
-  - Create point/award system for members that contribute resources
