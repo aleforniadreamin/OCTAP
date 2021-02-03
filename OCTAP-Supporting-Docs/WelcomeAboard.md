@@ -48,12 +48,12 @@ Keep an eye on the **#job-board** channel or ask specific questions like pay on 
 ## How to Explore Operation Code Channels
 
 ![Channel Browser](Media/WelcomeAboard/1.PNG)
-Click the “More” on the left side navigation bar and select “Channel Browser”
+- Click the “More” on the left side navigation bar and select “Channel Browser”
 
 ![Explore Channel](Media/WelcomeAboard/2.png)
-Explore the different channels on Operation Code that interest you
+- Explore the different channels on Operation Code that interest you
 
 ![Join Channel](Media/WelcomeAboard/3.png)
-Once you’ve found a channel that interests you, click the green “Join Channel” button. 
+- Once you’ve found a channel that interests you, click the green “Join Channel” button. 
 
 
