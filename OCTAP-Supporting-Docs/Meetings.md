@@ -34,3 +34,22 @@
 **Action Steps For Next Meeting**
 - Think about how to help members who have no idea on what they want. How do we best help members find a career they will be passionate about? 
   - Create a curriculum for undecided members? Maybe create a curriculum for non-tech roles in the tech industry?
+- Defining anatomy of OCTAP:
+  - Author: Who is creating the repo?
+  - Owner: Who will have administrative ownership of repo/project?
+  - Maintainers: Who will be managing the organizational aspects of project?
+  - Contributors: Who will be assisting in development?
+  - Community Members: Who are the people using the project? Include in conversation. 
+
+
+## February 9, 2021
+**Talking points during meeting**
+- Improving social media presence for OC
+- Reaching the "E4 Mafia" demographic. How to best reach the junior enlisted crowd who may not be aware of their benefits? 
+- Understanding pain points of members transitioning 
+
+**Action Steps For Next Meeting**
+- Intro paragraphs for E4 software development. How to catch their interests? 
+- Voice for E4 for social media. How can we reach the junior enlisted through social media?
+- Improving the OC brand and expanding social media presence:
+  - Twitter, FB, YouTube, LinkedIn, TikTok, Clubhouse

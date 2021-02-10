@@ -7,7 +7,16 @@ The purpose of the Operation Code Transition Assistance Program (OCTAP) is to pr
 - Full Stack Development
 - Data Science
 - Cyber Security 
-- UX/UI | Product Management.
+- UX/UI | Product Management
+
+An addition to providing material related to the specialized courses, the curriculum should also cover subjects/resources that benefit the member outside of the "programming" world, such as:
+- Self care
+- Mental health
+- Housing resources
+- Community resources
+- Soft skills:
+  - Networking 101
+  - Professional development subjects (Resume, LinkedIn, etc.)
 
 OCTAP was created to keep true of Operation Codes mission of helping the military community "thrive in their careers to code a better future". Members of Operation Code noticed a trend of service members feeling overwhelmed in their transition to the tech industry. OCTAP strives to address this issue by reaching service members well before they transition and provide them with the right tools to have the best chance of a successful transition. The secondary goal is to provide guidance for veterans already separated and assist the large veteran community who wish to enter the tech industry. The amount of information that is available can be overwhelming for inexperienced members, so OCTAP plans to provide the resources that offer the highest value for its members. 
 
