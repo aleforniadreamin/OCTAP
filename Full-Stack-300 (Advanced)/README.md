@@ -1,1 +1,0 @@
-# Full Stack Development 300 (Advanced)

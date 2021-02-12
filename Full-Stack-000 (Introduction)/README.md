@@ -1,1 +1,0 @@
-# Full Stack Development 000 (Introduction)

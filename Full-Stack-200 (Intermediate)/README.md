@@ -1,1 +1,0 @@
-# Full Stack Development 200 (Intermediate)
