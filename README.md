@@ -28,4 +28,4 @@ The success of OCTAP will be measured by how many members are able to find meani
 ## High Level Project Description
 Creating a structured self-paced curriculum requires OCTAP to utilize already available resources and not "reinvent the wheel". The key word is "structured", and the value of OCTAP is providing "what" to study and "when" to study said subject, alongside guidance from experienced members. Curriculums will be based on training track member chooses and material will be accessed through Github repositories. The following will be a sample training track for Full Stack Development.
 
-[See example timeline for Full Stack curriculum →]: OCTAP-Supporting-Docs\CurriculumTimeline.md
+[See example timeline for Full Stack curriculum →](OCTAP-Supporting-Docs/CurriculumTimeline.md)

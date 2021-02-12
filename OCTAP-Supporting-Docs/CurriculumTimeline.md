@@ -1,3 +1,4 @@
+[← Back to OCTAP README](/README.md)
 
 # Curriculum Timeline Sample for Full Stack Web Development
 
@@ -28,3 +29,30 @@
   - During this phase a member will have a clear understanding of web development as well as the resources available to them and decide what actions to take. 
     - Members that want to take advantage of command sponsored programs, coding bootcamps, college route will take the necessary steps to achieve it
   - Advanced tutorials, resources, and steps
+
+# Operation Code Timeline for Full Stack Developer for Active Duty
+
+## 12 Months and Beyond
+- Research the web development industry and make sure that its a route you would like to go down
+  - Type of developer roles that interest you
+  - Type of languages that interest you
+- Utilize tuition assistance and take classes related to computer science
+- Attend a TAP workshop within your command
+  - Develop a resume
+  - Create a LinkedIn
+  - Create a Github account
+
+## 6 Months
+- TBD
+
+## 5 Months
+- TBD
+
+## 4-3 Months
+- TBD
+
+## 2-1 Months
+- TBD
+
+# Operation Code Timeline for Veterans
+- TBD
