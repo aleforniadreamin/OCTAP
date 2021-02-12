@@ -10,6 +10,7 @@ We have a community of experienced developers. Let's leverage our talented membe
 * How I interview applicants (from a hiring managers perspective)
 * How to search for a new position? 
   
+  
 
 Perhaps create a sign up sheet where members can sign up with their proposed ideas. 
 

@@ -53,3 +53,51 @@
 - Voice for E4 for social media. How can we reach the junior enlisted through social media?
 - Improving the OC brand and expanding social media presence:
   - Twitter, FB, YouTube, LinkedIn, TikTok, Clubhouse
+
+## February 11, 2021
+- Time: 1230 PST
+- Attendees: Cynthia, Annie, Alex
+- Subject: Leader Transition Institute
+
+**Talking Points**
+- What are the most common pain points that you have noticed for members wanting to transition into another industry? 
+- What has been a common pain point for YOU while interacting with transitioning members? 
+- Have you noticed any distinct paint points between prior enlisted members and officers? Have any of these two groups had unique pain points not found in the other? 
+- What is your metric of success when helping these transitioning members? Employment in new industry? Better sense of where they want to take their life? 
+- What has been your experience using online learning to help your mission? Do you utilize online classes or materials? 
+- I personally think the program, Changing Focus: Moving From We to Me is a great program that I wish I had when transitioning. 
+- On the events pages I noticed you have: 
+  - The Bold Leader Lunch & Learn Series (Monthly)
+  - Changing Focus program
+  - Training & Coaching Session
+  - Any plans in the future to offer more classes? Like how do you guys keep up with the "transition industry" and decide what material to cover? Do you have a rep that keeps tabs on changes being made? 
+- How do you communicate as a team and assign tasks? How do you set goals and achieve them? 
+  
+
+Notes:
+- Program DOD: Tech Job Training. Are we providing certifications? 
+  - Two pronged approach: 
+    - Training vet for tech industry (OCTAP) w/ certification (Certify Veterans)
+    - HR folks are afraid to hire veterans. Cert would show that vets don't have those problems (Certify Businesses)
+- How do you track if people succeed? 
+  - Keep a roster of people that enroll
+- In person programs?
+- Keep track of the data for the users? 
+- Don't be a coding bootcamp? 
+- Change Focus: Changing from We to Me
+- Transform the military mindset is lacking.
+- Purpose and vision plan. 
+- Disc assessment? Personality assessment? Tech assessments for OCTAP?
+- Live streams for OC. Growing YouTube channels.
+- AMA w/ experts. Do we have a schedule? 
+- Fundraising Academy?
+- Wants to join OC? Partnership into lineup for VTI? Veterati.
+- Helping civilian go into tech
+- Flip the Script?
+- Vetting process? Guide star?  Educational licenses? Silver Profile?
+- February 25th. Webinars for OCTAP? Ask their opinion? 
+- Email: YouTube videos
+- ISO Compliance Certifications
+- Tuesday March 9: 0700 
+
+

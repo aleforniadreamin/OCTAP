@@ -1,3 +1,5 @@
+**Disclaimer:** *This curriculum is under construction. We are slowly creating the OCTAP content to be accessed here on GitHub.*
+
 # Operation Code Transition Assistance Program
 
 ![Operation Code Logo](https://operation-code-assets.s3.us-east-2.amazonaws.com/branding/logos/large-blue-logo.png)
