@@ -18,7 +18,7 @@ This repository contains the resources to introduce you to the exciting career o
 
 <br/>
 
-## [Full Stack Development 100: Fundamentals ](Algorithms)
+## [Full Stack Development 100: Fundamentals ](./Full-Stack-100/README.md)
 <table>
   <tr>
     <th>Objective</th>
@@ -29,7 +29,7 @@ This repository contains the resources to introduce you to the exciting career o
 
 <br/>
 
-## [Full Stack Development 200: Intermediate ](Algorithms)
+## [Full Stack Development 200: Intermediate ](./Full-Stack-200/README.md)
 <table>
   <tr>
     <th>Objective</th>
@@ -40,7 +40,7 @@ This repository contains the resources to introduce you to the exciting career o
 
 <br/>
 
-## [Full Stack Development 300: Advanced ](Algorithms)
+## [Full Stack Development 300: Advanced ](./Full-Stack-300/README.md)
 <table>
   <tr>
     <th>Objective</th>
