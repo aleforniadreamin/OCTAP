@@ -8,7 +8,7 @@
 This repository contains the resources to introduce you to the exciting career of web development. This repo is separated into four different phases (Introduction, Fundamentals, Intermediate, Advanced) with accompanying resources to help you progress in your journey. For complete beginners we recommend starting with Section 000. 
 
 
-## [Full Stack Development 000: Introduction ](Algorithms)
+## [Full Stack Development 000: Introduction ] (Full-Stack-000 (Introduction)/README.md)
 <table>
   <tr>
     <th>Objective</th>
