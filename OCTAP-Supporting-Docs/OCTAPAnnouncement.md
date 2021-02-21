@@ -1,3 +1,5 @@
+**Disclaimer:** *This will be used to introduce OCTAP to the community and is under construction.*
+
 # OCTAP Announcement
 
 "Good morning Operation Code Community! We at OC are excited to share with you the new Operation Code Transition Assistance Program or OCTAP. 

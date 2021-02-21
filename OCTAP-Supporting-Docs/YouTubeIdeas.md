@@ -12,6 +12,6 @@ We have a community of experienced developers. Let's leverage our talented membe
   
   
 
-Perhaps create a sign up sheet where members can sign up with their proposed ideas. 
+Perhaps create a sign up sheet where members can sign up with their proposed ideas. Calendar of events that easily accessible? 
 
 Have Operation Code members employed in companies give Zoom talks about what its like to be employed and best practices.
