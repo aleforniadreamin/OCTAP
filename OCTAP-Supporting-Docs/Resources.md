@@ -9,7 +9,7 @@
 - [DOD Skillbridge](https://dodskillbridge.usalearning.gov/)
 
 ## Veteran 
--[Vet Tec](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/)
+- [Vet Tec](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/)
 
 ## Mentorship
 - [Veterati](https://www.veterati.com/)
